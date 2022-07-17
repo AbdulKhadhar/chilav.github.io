@@ -39235,7 +39235,7 @@ $2(a,b){return B.f.bh(b.c.a,a.c.a)},
 $S:241}
 A.Jb.prototype={
 F(a,b){var s=A.apY(null,B.HE)
-return new A.ya(new A.zP(null),A.aL(["add-transaction",new A.a1S()],t.N,t.Ab),"Flutter Demo",s,!1,null)}}
+return new A.ya(new A.zP(null),A.aL(["add-transaction",new A.a1S()],t.N,t.Ab),"Chilav",s,!1,null)}}
 A.a1S.prototype={
 $1(a){return B.IL},
 $S:240}
